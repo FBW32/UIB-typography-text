@@ -14,7 +14,7 @@ li {
 }
 .note {
   font-weight: 900;
-  font: italic;
+  font-style: italic;
 }
 .todo-item {
   text-decoration: line-through;
