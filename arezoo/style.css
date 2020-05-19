@@ -1,0 +1,33 @@
+body {
+  background-color: lightcoral;
+  margin-left: 45px;
+}
+h1 {
+  font-family: "Lobster Two", cursive;
+  font-size: 45px;
+  color: darkslateblue;
+  text-decoration: underline;
+  word-spacing: 20px;
+}
+.heading {
+  font-size: 30px;
+  text-shadow: 3px 3px lightgoldenrodyellow;
+  text-transform: uppercase;
+}
+
+.note {
+  font-weight: bold;
+  font-style: italic;
+  font-family: "Roboto Mono", monospace;
+}
+
+.toiletry-item,
+.todo-item,
+.grocery-item {
+  font-weight: lighter;
+  font-size: 20px;
+  font-family: "Raleway", sans-serif;
+}
+.todo-item {
+  text-decoration: line-through;
+}
