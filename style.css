@@ -9,7 +9,7 @@ li{
     font-weight: lighter;
 }
 .heading{
-    text-shadow: 2px 2px red, -4px -4px blue;
+    text-shadow: 2px 2px yellow, -4px -4px blue;
     text-transform: uppercase;
 }
 .note{
