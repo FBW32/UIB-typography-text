@@ -1,0 +1,30 @@
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+h1 {
+  text-decoration: underline;
+  font-weight: bolder;
+}
+
+li {
+  font-weight: light;
+}
+
+.heading {
+  text-shadow: 2px 2px grey;
+  text-transform: uppercase;
+  font-weight: normal;
+  font-size: 1.5rem;
+}
+
+.note {
+  font-weight: bold;
+  font-style: italic;
+  font-size: large;
+}
+
+.todo-item {
+  text-decoration: line-through;
+  font-weight: lighter;
+}
