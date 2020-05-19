@@ -5,7 +5,7 @@ h1 {
   text-decoration: underline;
 }
 li {
-  font-weight: 100;
+  font-weight: lighter;
 }
 
 .heading {
@@ -14,7 +14,7 @@ li {
 }
 
 .note {
-  font-weight: 400;
+  font-weight: bold;
   font-style: italic;
 }
 .todo-item {
