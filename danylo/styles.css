@@ -19,3 +19,7 @@ ul {
     font-weight: bold;
     font-style: italic;
 }
+
+.todo-item {
+    text-decoration: line-through;
+}
