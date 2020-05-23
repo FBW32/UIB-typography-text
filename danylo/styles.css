@@ -1,0 +1,23 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.header {
+    text-decoration: underline;
+}
+
+.heading {
+    font-weight: bolder;
+}
+
+.groceries-list {
+    font-weight: normal;
+}
+
+.toiletries-list {
+    font-weight: lighter;
+}
+
+.to-do-list {
+    font-weight: initial;
+}
