@@ -1,0 +1,26 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.header {
+    text-decoration: underline;
+}
+
+ul {
+    font-weight: lighter;
+    color: gray;
+}
+
+.heading {
+    text-shadow: 2px 2px 1px gray;
+    text-transform: uppercase;
+}
+
+.note {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.todo-item {
+    text-decoration: line-through;
+}
