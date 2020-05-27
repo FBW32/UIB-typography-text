@@ -11,7 +11,7 @@ h1 {
     }
 
     .note {
-  font-weight: bolder; font-style: italic;
+  font-weight: bolder; font-style: italic; align-content: center
 }
 .todo-item {text-decoration: line-through;
 }
